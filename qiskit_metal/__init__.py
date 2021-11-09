@@ -55,7 +55,7 @@ def __setup_Qt_backend():  # pylint: disable=invalid-name
 
     # When in vscode and in debug-mode, may want to comment
     # next line out, "os.environ["QT_API"] = "pyside2""
-    os.environ["QT_API"] = "pyside2"
+    # os.environ["QT_API"] = "pyside2"
 
     from PySide2 import QtCore  #, QtWidgets
     from PySide2.QtCore import Qt
