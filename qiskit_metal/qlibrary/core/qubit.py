@@ -14,7 +14,7 @@
 
 from copy import deepcopy
 from qiskit_metal.toolbox_python.attr_dict import Dict
-from .base import QComponent
+# from .base import QComponent
 import pprint
 
 
