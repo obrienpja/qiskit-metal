@@ -34,7 +34,7 @@ from qiskit_metal.renderers.renderer_mpl.mpl_interaction import MplInteraction
 
 from qiskit_metal.renderers.renderer_ansys import ansys_renderer
 
-from qiskit_metal.qgeometries.qgeometries_handler import QGeometryTables
+# from qiskit_metal.qgeometries.qgeometries_handler import QGeometryTables
 from qiskit_metal.qlibrary.qubits.transmon_pocket import TransmonPocket
 from qiskit_metal import draw
 

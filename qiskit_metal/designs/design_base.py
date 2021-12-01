@@ -21,7 +21,7 @@ from typing import Any, Dict as Dict_, Iterable, List, TYPE_CHECKING, Union
 
 import pandas as pd
 
-from qiskit_metal.qgeometries.qgeometries_handler import QGeometryTables
+# from qiskit_metal.qgeometries.qgeometries_handler import QGeometryTables
 from qiskit_metal.toolbox_metal.parsing import is_true, parse_options, parse_value
 from qiskit_metal.designs.interface_components import Components
 from qiskit_metal.designs.net_info import QNet

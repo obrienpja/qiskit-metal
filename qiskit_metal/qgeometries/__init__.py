@@ -29,4 +29,4 @@ QGeometryTables
     QGeometryTables
 
 """
-from .qgeometries_handler import is_qgeometry_table, QGeometryTables  # , QGeometry Types
+from .qgeometries_handler import is_qgeometry_table#, QGeometryTables  # , QGeometry Types

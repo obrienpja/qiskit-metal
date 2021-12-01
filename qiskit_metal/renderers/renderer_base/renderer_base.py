@@ -21,7 +21,7 @@ from typing import List, Tuple, Union, Any, Iterable
 from abc import abstractmethod, ABC
 
 from qiskit_metal.designs import is_design
-from qiskit_metal.qgeometries import QGeometryTables
+# from qiskit_metal.qgeometries import QGeometryTables
 from qiskit_metal import designs
 
 from ... import Dict

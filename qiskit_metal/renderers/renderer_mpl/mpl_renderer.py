@@ -49,7 +49,7 @@ if TYPE_CHECKING:
     from ..._gui.main_window import MetalGUI
     from ..._gui.widgets.plot_widget.plot_window import QMainWindowPlot
     from .mpl_canvas import PlotCanvas
-    from qiskit_metal.elements.elements_handler import QGeometryTables
+    # from qiskit_metal.elements.elements_handler import QGeometryTables
 
 __all__ = ['QMplRenderer']
 

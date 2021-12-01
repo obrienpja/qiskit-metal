@@ -14,7 +14,7 @@
 """QRendererGui Base."""
 
 from ...designs import QDesign, is_design
-from ...qgeometries import QGeometryTables
+# from ...qgeometries import QGeometryTables
 
 from . import QRenderer
 
