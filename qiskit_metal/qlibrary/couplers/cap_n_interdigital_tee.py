@@ -13,7 +13,7 @@
 # that they have been altered from the originals.
 
 from qiskit_metal import draw, Dict
-from qiskit_metal.qlibrary.core import QComponent
+# from qiskit_metal.qlibrary.core import QComponent
 import numpy as np
 
 

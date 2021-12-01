@@ -21,7 +21,8 @@ from qiskit_metal import config
 
 if not config.is_building_docs():
     # Only import QComponent if the docs are NOT being built
-    from ..qlibrary.core import QComponent
+    # from ..qlibrary.core import QComponent
+    pass
 
 if TYPE_CHECKING:
     # For linting typechecking, import modules that can't be loaded here under normal conditions.

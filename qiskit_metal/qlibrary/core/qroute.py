@@ -14,7 +14,7 @@
 
 import numpy as np
 from qiskit_metal import draw, Dict
-from .base import QComponent
+# from .base import QComponent
 from numpy.linalg import norm
 from typing import List, Tuple, Union, AnyStr
 from collections.abc import Mapping

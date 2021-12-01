@@ -17,7 +17,8 @@ from typing import List
 from typing import TYPE_CHECKING
 #from ...toolbox_python.utility_functions import log_error_easy
 if TYPE_CHECKING:
-    from .base import QComponent
+    # from .base import QComponent
+    pass
 
 
 def is_ipython_magic(check_attribute: str) -> bool:
