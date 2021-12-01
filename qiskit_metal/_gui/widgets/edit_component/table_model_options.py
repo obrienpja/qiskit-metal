@@ -26,7 +26,7 @@ __all__ = ['parse_param_from_str']
 
 if TYPE_CHECKING:
     from .component_widget import ComponentWidget
-    from ....designs import QDesign
+    # from ....designs import QDesign
 
 
 class QTableModel_Options(QAbstractTableModel):

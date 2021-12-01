@@ -32,7 +32,8 @@ if TYPE_CHECKING:
     # For linting typechecking, import modules that can't be loaded here under normal conditions.
     # For example, I can't import QDesign, because it requires Qrenderer first. We have the
     # chicken and egg issue.
-    from qiskit_metal.designs import QDesign
+    # from qiskit_metal.designs import QDesign
+    pass
 
 
 class QRenderer(ABC):

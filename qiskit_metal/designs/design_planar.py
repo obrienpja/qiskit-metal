@@ -19,7 +19,7 @@ from typing import Tuple
 #from typing import Dict as Dict_
 #from typing import List, Union
 
-from .design_base import QDesign, Dict
+from .design_base import Dict#, QDesign
 
 __all__ = ['DesignPlanar']
 

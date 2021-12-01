@@ -16,7 +16,7 @@ from . import QRenderer
 from ... import Dict
 from abc import abstractmethod, ABC
 
-from ...designs import QDesign, is_design
+# from ...designs import QDesign, is_design
 
 __all__ = ['QRendererAnalysis']
 

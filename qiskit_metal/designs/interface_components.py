@@ -27,7 +27,8 @@ if TYPE_CHECKING:
     # For linting typechecking, import modules that can't be loaded here under normal conditions.
     # For example, I can't import QDesign, because it requires QComponent first. We have the
     # chicken and egg issue.
-    from .design_base import QDesign
+    # from .design_base import QDesign
+    pass
 
 
 class Components:
