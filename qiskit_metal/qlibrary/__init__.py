@@ -130,8 +130,8 @@ Submodules
 
 """
 
-from .core import QComponent
-from .core import QRoute
+# from .core import QComponent
+# from .core import QRoute
 from .core import BaseQubit
 
 from .. import config
